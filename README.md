@@ -11,7 +11,7 @@ The system allows users to monitor and control devices such as lights, sensors, 
 * Automate home appliances
 * Improve home security
 * Monitor home environment using sensors
-* Provide an efficient and scalable automation solution
+* Provide an efficient and scalable automation solution 
 
 ---
 
